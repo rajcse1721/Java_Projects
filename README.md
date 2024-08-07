@@ -1,5 +1,5 @@
 # Java_Projects
-1.Email Application
+# 1.Email Application
 Scenario: You are an IT Support Administrator Specialist and are
 charged with the task of creating email accounts for new hires.
 Your application should do the following:
